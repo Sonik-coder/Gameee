@@ -1,1 +1,18 @@
-[1211/172313.575:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1212/140441.037:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[1212/140641.297:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1212/142130.770:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142130.788:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142135.781:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142135.792:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142140.795:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142140.796:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142145.798:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142145.813:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142153.366:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142153.368:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142153.473:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142153.476:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142158.369:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142158.383:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142158.478:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1212/142158.480:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
