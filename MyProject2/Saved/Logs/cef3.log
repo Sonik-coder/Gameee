@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-[1212/222152.783:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-=======
-[1212/203744.061:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
->>>>>>> 33c071def89fb03a2215512557863b53009a497e
+[1213/211608.749:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
