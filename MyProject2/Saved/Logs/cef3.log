@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 [1215/162931.954:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
 =======
 >>>>>>> Stashed changes
+=======
+[1214/125628.274:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+>>>>>>> 21ada8d81705dfea1c8d7fd03b1e00a5b3f704fd
