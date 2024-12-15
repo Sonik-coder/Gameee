@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-[1215/162931.954:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-=======
->>>>>>> Stashed changes
-=======
-[1214/125628.274:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
->>>>>>> 21ada8d81705dfea1c8d7fd03b1e00a5b3f704fd
+[1215/191436.644:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[1215/191636.912:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
